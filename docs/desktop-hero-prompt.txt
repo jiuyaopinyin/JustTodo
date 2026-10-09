@@ -1,17 +1,10 @@
-Generated with the built-in image_gen tool (product-mockup).
-Output: docs/screenshots/desktop-hero.png
-This is an illustrative desktop mockup, not an actual screenshot.
+Final asset: docs/screenshots/macbook-hero.png
+Hardware model: generated with built-in image_gen (prompt below).
+Screen content: docs/screenshots/demo-desktop.jpg, captured with CUA from a temporary native demo window using the production ProjectDockCard view, DockMetrics, DockCardShape and Typography. Synthetic counts and neutral gradient; not a capture of the user's personal desktop.
+Native viewport: 1200x675 points; screenshot: 2400x1350 pixels.
+Badge sizes: side 60x50 points; top 50x60 points.
+As requested, the entire real component screenshot was directly composited into the model screen instead of having the generator redraw the badges. Final screen rectangle x=247, y=95, width=1040, height=584 on a 1536x1024 canvas. All content shares the same screen scale.
+No production code or release binaries changed.
 
-Use case: product-mockup.
-Asset type: wide landscape hero image for the GitHub README of JustTodo, a very minimal native macOS to-do app.
-Primary request: show a COMPLETE beautiful desktop computer model, including the entire screen, thin silver enclosure, stand and base, straight-on front view with very slight depth. The display takes most of the image width. This must clearly demonstrate multiple small project badges docked flush INSIDE the edges of the desktop screen, rather than a close-up of one badge.
-Scene/backdrop: refined pale off-white studio background and surface, soft realistic contact shadow. Screen has an uncluttered macOS-like desktop with a quiet warm ivory to pale blue abstract gradient wallpaper. A very subtle slim menu bar and small muted desktop Dock at bottom may establish desktop context; no app windows. Entire model remains inside the frame with modest margins. Landscape 1536x1024.
-Critical JustTodo badge design: exactly five small independent edge tabs, each displaying ONLY a completed/total fraction in a bold geometric techno numeral font. Flat outer end touches the inner screen boundary with ZERO GAP, and ONLY the exposed inner end is semicircular. They look physically clipped/docked to the desktop edge, never loose floating pills, never attached outside the monitor onto the bezel. Side tabs are about 70 pixels wide by 54 pixels tall on the approximately 1300-pixel-wide screen; readable but small in relation to the whole desktop. Subtle translucent pastel fill, crisp saturated matching colored numbers.
-Positions and exact text:
-- Right edge upper-middle: light blue tab with blue "2/6", flat RIGHT edge flush against screen border, rounded LEFT tip.
-- Right edge below it with generous spacing: light lavender tab with purple "0/3", flat RIGHT edge, rounded LEFT tip.
-- Left edge middle: light mint tab with green "3/7", flat LEFT edge, rounded RIGHT tip.
-- Left edge lower-middle: light peach tab with orange "1/4", flat LEFT edge, rounded RIGHT tip.
-- Top edge just below menu bar near center-right: light rose vertical tab with red "4/5", flat TOP, rounded BOTTOM; its width/height swapped relative to side badges. All text is horizontal, including this top tab.
-Style: premium minimal realistic 3D hardware product render, precise and restrained UI, clean contours, soft studio lighting, no visual noise. This is an illustrative presentation mockup, not a literal screenshot.
-Avoid: task titles on badges, notifications, message icons, generic rectangular notifications, detached pills, all-corners-rounded tabs, overlarge badges, a huge title inside the monitor, busy desktop files, people, hands, keyboard, mouse, plants, logos, watermarks, arrows or captions. Only legible text is the five exact fractions.
+Hardware-generation prompt:
+Edit the supplied JustTodo README hero image. Replace ONLY the iMac desktop computer hardware with a complete realistic silver MacBook laptop, opened at a natural approximately 105 degree angle. Show the entire laptop screen, keyboard, large trackpad, thin lower chassis and front lip, with NO monitor stand or desktop monitor base. Front-centered product photography view slightly above keyboard level, screen almost frontal so the UI remains clearly visible. Full MacBook inside the frame, occupying most of the landscape canvas, modest margins. Preserve the clean off-white studio background, soft lighting and contact shadow. Preserve the same ivory-to-blue desktop wallpaper and the five small pastel edge-attached project tabs INSIDE the laptop display: green "3/7" and orange "1/4" flush left, blue "2/6" and purple "0/3" flush right, rose "4/5" flush top near center-right. Tabs must have flat outer edge touching the screen boundary and only the inward-facing end semicircular. Keep side tabs horizontal, top tab vertical with horizontal text. Keep tabs legible, same proportional scale relative to screen. Preserve subtle macOS menu bar and bottom Dock. No extra labels, slogans, watermarks or props. Premium restrained product mockup, 1536x1024 landscape. It must unmistakably be a MacBook laptop, not an iMac or standalone display.

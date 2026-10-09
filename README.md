@@ -6,9 +6,9 @@
 
 A tiny to-do list at the edge of your screen. Nothing extra.
 
-<img src="docs/screenshots/desktop-hero.png" alt="JustTodo 桌面吸附效果示意：完整电脑屏幕的左侧、右侧和顶部驻留五个不同颜色的待办标签" width="100%">
+<img src="docs/screenshots/macbook-hero.png" alt="JustTodo MacBook 展示模型：真实标签组件截图，顶部为 50×60、侧边为 60×50" width="100%">
 
-<sub>桌面吸附效果示意 · 左侧、右侧、顶部，随你摆放</sub>
+<sub>真实标签界面 × MacBook 展示模型 · 左侧、右侧、顶部，随你摆放</sub>
 
 [下载 Apple 芯片版](https://github.com/jiuyaopinyin/JustTodo/releases/latest/download/JustTodo-1.0.0-arm64.dmg) · [下载 Intel 版](https://github.com/jiuyaopinyin/JustTodo/releases/latest/download/JustTodo-1.0.0-x86_64.dmg)
 
