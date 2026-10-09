@@ -6,17 +6,15 @@
 
 A tiny to-do list at the edge of your screen. Nothing extra.
 
+<img src="docs/screenshots/desktop-hero.png" alt="JustTodo 桌面吸附效果示意：完整电脑屏幕的左侧、右侧和顶部驻留五个不同颜色的待办标签" width="100%">
+
+<sub>桌面吸附效果示意 · 左侧、右侧、顶部，随你摆放</sub>
+
 [下载 Apple 芯片版](https://github.com/jiuyaopinyin/JustTodo/releases/latest/download/JustTodo-1.0.0-arm64.dmg) · [下载 Intel 版](https://github.com/jiuyaopinyin/JustTodo/releases/latest/download/JustTodo-1.0.0-x86_64.dmg)
 
 macOS 14+ · 已通过 Apple 公证 · 中文 / English
 
 </div>
-
-### 平时，只是桌面边缘的一个小标签
-
-<p align="right">
-  <img src="docs/screenshots/edge-badge.jpg" alt="JustTodo 吸附在屏幕右侧的小标签，显示已完成 2 项 / 共 6 项" width="120">
-</p>
 
 每个项目独立驻留，数字就是 **已完成 / 总数**。拖到左侧、右侧或顶部，也能放到外接屏；颜色和透明度随你调整。
 
